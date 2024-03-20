@@ -1,11 +1,19 @@
 # Disney Plus Hotstar Clone
 
-## This is just a frontend clone of Disney Plus Hotstar there is no backend in this clone.
+### UI Clone of Disney Plus Hotstar.
+### All images, series, movies and videos are static.  
 
-### Here I've tried to clone as much good as I can.
+### Live Project Link : [ click here ](https://hotstar-pranav.vercel.app/)
 
-## Live Project : <a href="https://hotstar-pranav.vercel.app" target="_blank">hotstar-pranav.vercel.app</a>
+<br/>
 
-## Started : 29/9/23
+### __Project Images :__
+![Project Preview Image](/public/preview1.png)
 
-## Completed : 1/10/23 -> Sunday
+<br/>
+
+![Project Preview Image](/public/preview2.png)
+
+<br/>
+
+![Project Preview Image](/public/preview3.png)
